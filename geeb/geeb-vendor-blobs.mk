@@ -24,6 +24,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geeb/proprietary/bin/efsks:system/bin/efsks \
     vendor/lge/geeb/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/lge/geeb/proprietary/bin/ks:system/bin/ks \
+    vendor/lge/geeb/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/lge/geeb/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/lge/geeb/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/lge/geeb/proprietary/bin/nl_listener:system/bin/nl_listener \
